@@ -1,1 +1,0 @@
-A command line tool built to aggregate , filter and visualise work-study (alternance) opportunities in France directly from the terminal .
